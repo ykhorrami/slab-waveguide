@@ -15,3 +15,10 @@ We find waveguide modes for both passive and active slabs upon determinant analy
 --------------------------
 
 ![alt text](https://github.com/ykhorrami/slab-waveguide/blob/main/4.png)
+
+-----------
+YouTube Presentation: https://www.youtube.com/watch?v=D8J_iRRNWYc
+
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7402362453268889600/?originTrackingId=aX0DSURP76WUlT3YCo9uWg%3D%3D
+
+Paper Link: https://www.semanticscholar.org/paper/Passive-and-Active-Slab-Waveguide-Mode-Analysis-Avood-Athi/c6e3562e268601e290284900e8b981b6d0ca762e
