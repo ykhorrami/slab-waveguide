@@ -6,7 +6,12 @@ matrix. Using the scattering matrix technique, we develop the proposed method fo
 We find waveguide modes for both passive and active slabs upon determinant analysis of the scattering matrix of the slab. Our proposed technique is more efficient and faster than other numerical methods.  
 ![alt text](https://github.com/ykhorrami/slab-waveguide/blob/main/11.png)
 
+-------------------
+
+![alt text](https://github.com/ykhorrami/slab-waveguide/blob/main/TE%20modes.png)
 
 
+
+--------------------------
 
 ![alt text](https://github.com/ykhorrami/slab-waveguide/blob/main/4.png)
